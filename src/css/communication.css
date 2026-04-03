@@ -20,7 +20,9 @@
     left: 1306.2px;
     top: 434px;
 
-    background: #F19F00;
+    background-color: #F19F00;
+    background-image: url(imgs/DSOC.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 

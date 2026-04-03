@@ -32,6 +32,13 @@ button {
     top: 40px;
 }
 
+.header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
 .header .text {
     position: absolute;
     width: 2055px;

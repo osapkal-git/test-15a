@@ -15,7 +15,9 @@ button {
     left: 253px;
     top: 434px;
 
-    background: #A84BE1;
+    background-color: #A84BE1;
+    background-image: url(imgs/Asteroid.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 
@@ -26,7 +28,9 @@ button {
     left: 1306.2px;
     top: 434px;
 
-    background: #A84BE1;
+    background-color: #A84BE1;
+    background-image: url(imgs/Spacecraft.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 

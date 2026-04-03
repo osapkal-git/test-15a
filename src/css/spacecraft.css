@@ -9,7 +9,9 @@
     left: 41px;
     top: 459px;
 
-    background: #D99AFF;
+    background-color: #D99AFF;
+    background-image: url(imgs/Spacecraft.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 
@@ -20,7 +22,9 @@
     left: 881px;
     top: 459px;
 
-    background: #D99AFF;
+    background-color: #D99AFF;
+    background-image: url(imgs/Dimensions.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 
@@ -31,7 +35,9 @@
     left: 1721px;
     top: 459px;
 
-    background: #D99AFF;
+    background-color: #D99AFF;
+    background-image: url(imgs/FunFacts.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 

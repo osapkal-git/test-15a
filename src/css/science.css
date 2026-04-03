@@ -9,6 +9,10 @@
     left: 461px;
     top: 267px;
     border-radius: 30px;
+
+    background-color: rgba(2, 107, 0, 0.9);
+    background-image: url(imgs/Magnetometer.png);
+    background-repeat: no-repeat;
 }
 
 .scio {
@@ -34,6 +38,10 @@
     left: 1301px;
     top: 267px;
     border-radius: 30px;
+
+    background-color: rgba(2, 107, 0, 0.9);
+    background-image: url(imgs/Neutronspectrometer.png);
+    background-repeat: no-repeat;
 }
 
 .low {
@@ -54,7 +62,9 @@
     left: 1301px;
     top: 650px;
 
-    background: rgba(2, 107, 0, 0.9);
+    background-color: rgba(2, 107, 0, 0.9);
+    background-image: url(imgs/MultispectralImagers.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 

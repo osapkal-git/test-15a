@@ -9,7 +9,9 @@
     left: 461px;
     top: 267px;
 
-    background: #00A9B7;
+    background-color: #00A9B7;
+    background-image: url(imgs/ColdGasThrusters.png);
+    background-repeat: no-repeat;
     border-radius: 30px;
 }
 
