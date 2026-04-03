@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:822703a523dfea059819f40914f64af33282ef64e0d682ff62a81a6b84039441
-size 448
+Button Name,,,Clicks
+Science(Section),,,1
+Magnetometer,,,5
+'Gamma Ray and Neutron Spectrometer',,,6
+Low Gain Antenna,,,6
+Multispectral,,,6
+Navigation(Section),,,11
+Cold Gas Thrusters,,,9
+Star Trackers,,,5
+Sun Sensors,,,4
+SP Thruster,,,4
+Video(Section),,,2
+Communication(Section),,,2
+X-band,,,1
+DSOC,,,1
+Spacecraft(Section),,,1
+Central Core,,,1
+Dimensions,,,0
+Fun Facts,,,0
+Materials,,,0
+3D Model(Section),,,2
+Astroid Model,,,1
+Spacecraft Model,,,1
